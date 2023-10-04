@@ -1,0 +1,144 @@
+h1 {
+    color: rgb(25, 7, 7);
+    font-size:30px;
+    height:70px;
+    width: 400px;
+}
+img {
+    height:350px;
+}
+p {
+    color: rgb(17, 17, 17);
+    font-size:20px;
+    font-family:"lucida grande"
+}
+  
+li {
+    color:#444;
+}
+  
+.selected {
+    color:#ff0000;
+}
+  
+.header {
+    background-color:#26d0c9;
+    color:#a0eb15;
+    height:90px;
+}
+  
+li{
+    list-style: none;
+    float: left;
+    padding:20px 40px;
+}
+  
+.header-logo {
+    float:left;
+    font-size:36px;
+    padding:20px 40px;
+}
+.footer {
+    background-color: #2f5167;
+    color: #bce5f7;
+    height: 120px;
+    padding: 40px;
+}
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+.footer-list {
+    float: right;
+}
+.footer-list li{
+    padding-bottom: 20px;
+}
+.main {
+    padding: 100px 80px;
+}
+.copy-container h1 {
+    font-size: 140px;
+}
+  .copy-container h2 {
+    font-size: 60px;
+}
+.copy-container span {
+    color: #ff4a4a;
+}
+.contents {
+    height: 500px;
+    margin-top: 100px;
+}
+.section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
+.contents-item p {
+    color:black;
+    font-size: 24px;
+    margin-top: 30px;
+}
+.footer {
+    background-color: rgb(185, 241, 185);
+    height: 270px;
+}
+.container {
+    width: 1170px;
+    padding-left: 15px;
+    padding-right: 15spx;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main {
+    padding: 180px 0 110px 0;
+    background-image:url("https://prog-8.com/images/html/advanced/top_en.png");
+    background-size: cover;
+    color: rgb(236, 185, 243);
+    text-align: center;
+}
+.main h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+.main p {
+    color:aliceblue;
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+.btn {
+    padding: 12px 24px;
+    color: rgb(147, 221, 243);
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+.btn:hover {
+    opacity: 1;
+}
+.fa {
+    margin-right: 5px;
+}
+.btn-wrapper {
+    margin: 20px 0;
+}
+.btn-wrapper p {
+    margin: 10px 0;
+}
+.signup {
+    background-color: #239b76;
+}
+.facebook {
+    background-color: #3b5998;
+}
+.twitter {
+    background-color: #55acee;
+}
